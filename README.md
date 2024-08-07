@@ -12,5 +12,5 @@
 <h3>Yönetim Paneli Bilgisi</h3>
 <strong>Kullanıcı Adı:</strong> deneme@deneme.com
 <strong>Şifre:</strong> 123456
-
+<br>
 <img src="https://cdn.r10.net/editor/115118/551263838.jpeg" alt="Reklam Takip Scripti">
